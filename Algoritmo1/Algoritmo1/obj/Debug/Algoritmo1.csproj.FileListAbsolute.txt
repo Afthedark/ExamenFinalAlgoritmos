@@ -1,6 +1,0 @@
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.exe.config
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.exe
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\bin\Debug\Algoritmo1.pdb
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.exe
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.pdb
-C:\Users\hp\Desktop\algo\Algoritmo1\Algoritmo1\obj\Debug\Algoritmo1.csprojResolveAssemblyReference.cache
