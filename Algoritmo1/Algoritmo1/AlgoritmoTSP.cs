@@ -87,8 +87,8 @@ namespace Algoritmo1
 
                     }
                   
-                    result += " GASTO EN ORO = " + ruta.DistanciaTotal + "\n";
-                    result += " SALDOS SOLDADOS = " + ruta.cantidadhombres + "\n";
+                    result += " ORO RESTANTE = " + ruta.DistanciaTotal + "\n";
+                    result += " SALDO SOLDADOS = " + ruta.cantidadhombres + "\n";
               
                 }
                 
